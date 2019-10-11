@@ -1,1 +1,1 @@
-[![Build Status](https://dev.azure.com/frhaque/mlops-day1/_apis/build/status/test-CI?branchName=master)](https://dev.azure.com/frhaque/mlops-day1/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/frhaque/mlops-day1/_apis/build/status/mlops-day1-merge-test-CI?branchName=master)](https://dev.azure.com/frhaque/mlops-day1/_build/latest?definitionId=3&branchName=master)
